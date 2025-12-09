@@ -1,25 +1,22 @@
 # TASKS
 
 ## Description
-A copy of the Google Tasks application.
+A clone of the Google Tasks. The main goal of the project is to practice front-end development.
 
 ## Features
-- Create, update and delete lists of tasks
-- Create, update and delete tasks
+- Create, edit and delete tasks
+- Create, edit and delete lists
 - Completed tasks list
 
-## Technologies:
-- HTML/CSS
-- JavaScript
-- React (hooks)
-- Global state with useContext + useReduser
-- Material UI
-- axios
-- uuid
-- json-server
+## Technologies
+- **Front-End:** HTML, CSS, JavaScript, React
+- **State Management:** `useContext` + `useReducer`
+- **UI Library:** Material-UI
+- **HTTP Requests:** Axios
+- **Mock Backend:** json-server
 
 ## Installing
-- Copy the repository
+- Clone the repository
 - Install dependencies `npm install`
-- Run the JSON server `json-server --watch ./src/db.json --port 3001`
+- Start the mock backend `json-server --watch ./src/db.json --port 3001`
 - Run the project `npm start`
