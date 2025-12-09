@@ -1,7 +1,7 @@
 # GOOGLE TASKS
 
 ## Description
-A clone of the Google Tasks. The main goal of the project is to practice front-end development.
+A clone of the Google Tasks. The main goal of the project is to practice `Front-End` development.
 
 ## Features
 - Create, edit and delete tasks
@@ -13,7 +13,7 @@ A clone of the Google Tasks. The main goal of the project is to practice front-e
 - **UI Library:** Material-UI
 - **State Management:** useContext, useReducer
 - **HTTP Requests:** Axios
-- **Mock Backend:** Json-Server
+- **Back-End:** Json-Server
 
 ## Installing
 - Clone the repository
