@@ -12,8 +12,8 @@ A clone of the Google Tasks. The main goal of the project is to practice front-e
 - **Front-End:** HTML, CSS, JavaScript, React
 - **UI Library:** Material-UI
 - **State Management:** useContext, useReducer
-- **HTTP Requests:** axios
-- **Mock Backend:** json-server
+- **HTTP Requests:** Axios
+- **Mock Backend:** Json-Server
 
 ## Installing
 - Clone the repository
