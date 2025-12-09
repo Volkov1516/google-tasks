@@ -1,4 +1,4 @@
-# TASKS
+# GOOGLE TASKS
 
 ## Description
 A clone of the Google Tasks. The main goal of the project is to practice front-end development.
