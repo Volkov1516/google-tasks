@@ -10,9 +10,9 @@ A clone of the Google Tasks. The main goal of the project is to practice front-e
 
 ## Technologies
 - **Front-End:** HTML, CSS, JavaScript, React
-- **State Management:** `useContext` + `useReducer`
 - **UI Library:** Material-UI
-- **HTTP Requests:** Axios
+- **State Management:** useContext, useReducer
+- **HTTP Requests:** axios
 - **Mock Backend:** json-server
 
 ## Installing
